@@ -6,12 +6,12 @@ Este é um projeto criado para a matéria de Atividades práticas supervisionada
 
 # Metodologia
 <p align="justify">
-Neste projeto, utilizei a linguagem de programação python para desenvolver um algoritmo para o cálculo de carbono. Junto ao python, foi utilizado a biblioteca Streamlit para desenvolver uma aplicação web que seja mais confortável para o usuário. O objetivo é que o usuário insira o quanto consumiu de gasolina com seu veículo, e a aplicação retorne quanto de carbono foi emitido, quanto precisa ser gasto com créditos de carbono para compensar a emissão e quanto pode ser lucrado com a futura venda desses créditos.
+Neste projeto, utilizei a linguagem de programação python para desenvolver um algoritmo para o cálculo de carbono. Junto ao python, foi utilizado o Framework Streamlit para desenvolver uma aplicação web que seja mais confortável para o usuário. O objetivo é que o usuário insira o quanto consumiu de gasolina com seu veículo, e a aplicação retorne quanto de carbono foi emitido, quanto precisa ser gasto com créditos de carbono para compensar a emissão e quanto pode ser lucrado com a futura venda desses créditos.
 </p>
 
 # Techonologias utilizadas
 + Python
-+ StreamLit Library
++ Streamlit
 + Visual Studio Code
 + Git
 
